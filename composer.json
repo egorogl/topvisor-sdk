@@ -1,0 +1,28 @@
+{
+    "name": "egorogl/topvisor-sdk",
+    "description": "Topvisor SDK",
+    "version": "1.0.0",
+    "type": "library",
+    "require": {
+        "php": "^7.0",
+        "ext-mbstring": "*"
+    },
+    "keywords":[
+        "Topvisor",
+        "Проверка позиций сайтов",
+        "Rank Tracker",
+        "Rank Checker"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "egorogl",
+            "email": "egorogl@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Egorogl\\TopvisorSDK\\": "src/"
+        }
+    }
+}
