@@ -3,7 +3,7 @@
     "description": "Topvisor SDK",
     "version": "1.0.0",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.0",
         "ext-mbstring": "*"
@@ -32,5 +32,5 @@
                 "Egorogl\\TopvisorSDK\\TopvisorServiceProvider"
             ]
         }
-    },
+    }
 }
