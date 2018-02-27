@@ -24,5 +24,12 @@
         "psr-4": {
             "Egorogl\\TopvisorSDK\\": "src/"
         }
-    }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Egorogl\\TopvisorSDK\\TopvisorServiceProvider"
+            ]
+        }
+    },
 }
