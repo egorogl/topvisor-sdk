@@ -1,9 +1,9 @@
 {
     "name": "egorogl/topvisor-sdk",
     "description": "Topvisor SDK",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^7.0",
         "ext-mbstring": "*"
