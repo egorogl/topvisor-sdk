@@ -3,7 +3,7 @@
     "description": "Topvisor SDK",
     "version": "1.0.0",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^7.0",
         "ext-mbstring": "*"
